@@ -1,0 +1,24 @@
+.meRightImgContainer{
+    width: 276px;
+    height: 445px;
+    overflow: hidden;
+}
+.meRightImgContainer img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+#downcv{
+    padding:10px;
+    padding-left:20px;
+    margin-left: 10px;
+    width:130px;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: rgb(22, 199, 154);
+    display: inline-block;
+    border-radius: 20px;
+    border: 1px solid rgb(22, 199, 154);
+    font-size: 12px;
+    letter-spacing: 1px;
+}
